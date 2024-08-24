@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello git
 =======
 hello git fetch nagarju123
 one more change in this file
 >>>>>>> 63ac9c6f0b141f24b78ddc683e999235645659a7
+=======
+hello git fetch nagarju123
+one more change in this fill
+hello git
+>>>>>>> refs/remotes/origin/main
